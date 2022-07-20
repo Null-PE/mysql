@@ -1,1 +1,5 @@
-mysql database setup using docker&docker-compose
+start `docker-compose up -d`
+
+stop `docker-compose stop`
+
+`docker-compose down`
